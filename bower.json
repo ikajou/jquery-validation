@@ -22,7 +22,10 @@
 		"bower_components",
 		"test",
 		"demo",
-		"lib"
+		"lib",
+		"build",
+		"src",
+		"**/*.zip"
 	],
 	"dependencies": {
 		"jquery": ">= 1.6.4"
